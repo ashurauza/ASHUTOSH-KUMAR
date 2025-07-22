@@ -46,6 +46,8 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=sklearn,nodejs,react,express,git,github,aws,googlecloud,linux&perline=13)](#)
+
 ---
 
 ## 📚 Education
@@ -81,6 +83,11 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashurauza&layout=compact&theme=highcontrast" />
 <img src="https://github-readme-stats.vercel.app/api?username=ashurauza&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashurauza&theme=github_dark"/>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashurauza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
