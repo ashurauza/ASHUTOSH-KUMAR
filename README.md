@@ -78,6 +78,7 @@
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=ashurauza&theme=aura&hide_border=true&card_width=550"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashurauza&layout=compact&theme=highcontrast" />
 <img src="https://github-readme-stats.vercel.app/api?username=ashurauza&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashurauza&theme=github_dark"/>
 
