@@ -46,7 +46,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,nodejs,react,express,git,github,aws,googlecloud,linux&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,nodejs,react,git,github,aws,googlecloud,linux&perline=13)](#)
 
 ---
 
